@@ -1,0 +1,9 @@
+
+Vulnerability Report:
+=======================
+[!] Form Issues: Insecure form action /post.php found in document
+[!] Comment Issue: Key is found in the HTML comments, please remove
+[!] Comment Issue: Key is found in the HTML comments, please remove
+[!] Comment Issue: Key is found in the HTML comments, please remove
+[!] Input issue: Plaintext password input found. Please change to password type input
+ 
